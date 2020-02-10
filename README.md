@@ -1,1 +1,1 @@
-Simple Form UI with HTML & CSS
+Simple Desktop Form UI with HTML & CSS
